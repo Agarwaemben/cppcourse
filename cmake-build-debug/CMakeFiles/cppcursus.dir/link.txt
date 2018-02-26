@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cppcursus.dir/game.cpp.o CMakeFiles/cppcursus.dir/surface.cpp.o CMakeFiles/cppcursus.dir/template.cpp.o  -o cppcursus -lSDL2 -lGLEW -lGLU -lGL -lfreeimage 
